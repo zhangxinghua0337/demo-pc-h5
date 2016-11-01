@@ -51,7 +51,6 @@
 	__webpack_require__(7);
 	__webpack_require__(12);
 	__webpack_require__(14);
-	__webpack_require__(10);
 	//响应式布局
 	~function () {
 	    var desW = 640,

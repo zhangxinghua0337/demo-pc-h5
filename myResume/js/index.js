@@ -3,7 +3,6 @@ require('../swiper/swiper-3.3.1.min.css');
 require('../css/index.css');
 require('../css/animate.css');
 require('../swiper/swiper-3.3.1.min.js');
-require('../image/bg.png');
 //响应式布局
 ~function () {
     var desW = 640,
