@@ -122,7 +122,7 @@
 	    }
 
 	    //防止页面加载时就播放
-	    window.setTimeout(ctrlMusic, 1500);
+	    window.setTimeout(ctrlMusic, 1000);
 	}();
 
 /***/ },
