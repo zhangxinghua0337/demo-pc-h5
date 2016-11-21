@@ -622,9 +622,9 @@ html {
     bottom: .3rem;
     width: 2.38rem;
     height: 5.24rem;
-    -webkit-animation: fadeIn 1s 1.5s 1 both;
-    -moz-animation: fadeIn 1s 1.5s 1 both;
-    animation: fadeIn 1s 1.5s 1 both;
+    -webkit-animation: fadeIn 1s 3.5s 1 both;
+    -moz-animation: fadeIn 1s 3.5s 1 both;
+    animation: fadeIn 1s 3.5s 1 both;
 }
 
 /*---page3----*/
